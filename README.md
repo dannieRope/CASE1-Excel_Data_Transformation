@@ -1,12 +1,10 @@
-I came across a tweet by @Olaoluwa__Mercy on Twitter. The tweet mentioned the following:
+# Background
 
-"A school had their students' records stored in a Word document, but they required them in a spreadsheet format. 
+A school had their students' records stored in a Word document, but they required them in a spreadsheet format. 
 
 As someone who is proficient with Excel, what approach would you use to accomplish this?
 
-Manual data entry is not an option."
-
-In response to this challenge, I decided to participate, and it led me to discover new Excel functions. I gained valuable knowledge through this exercise, and I'm pleased that I decided to take part.
+Manual data entry is not an option.
 
 
 ## The Word Document
@@ -20,11 +18,17 @@ The Word document provided includes student records featuring the following info
 - Previous University
 
   
-Please access the Word document shared by Mercy at [this link](https://t.co/OLCiCu42cT) for downloading.
+Please access the Word document via [this link](https://t.co/OLCiCu42cT) for downloading.
 
 **Preview of the word document**
 
 ![Screenshot (419)](https://github.com/dannieRope/Data-Cleaning-using-Power-query-excel-functions/assets/132214828/24bcabc9-6e96-4c50-b438-b8e0803bb4ea)
+
+
+In response to this challenge, I decided to participate, and it led me to discover new Excel functions.
+
+I gained valuable knowledge through this exercise, and I'm pleased that I decided to take part.
+
 
 ## Solution
 
